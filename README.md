@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Exportações
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
