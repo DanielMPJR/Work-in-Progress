@@ -41,11 +41,10 @@ Assim, busca-se ampliar o conhecimento sobre esse recurso essencial para a econo
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Escolha de NCM - 27090010 - Oleos Brutos de petróleo.                                                                                                   | 6          | 2      |
-| 2    | Alta       | Busca de informações (Valor bruto, quantidade exportada e estados citados) e estruturação de dados para relatório.                                      | 2          | 2      |
-| 3    | Alta       | Analise de dados pronta e planilhada para validação                                                                                                     | 2          | 3      |
-                       
-| 4    | Baixa      | Apresentação na feria de soluções FATEC - SJC                                                                                                           |10          | 3      |
+| 1    | Alta       | Escolha de NCM - 27090010 - Oleos Brutos de petróleo.                                                                                                   |1 Hora      | 2      |
+| 2    | Alta       | Busca de informações (Valor bruto, quantidade exportada e estados citados) e estruturação de dados para relatório.                                      |4 Horas     | 2      |
+| 3    | Alta       | Analise de dados pronta e planilhada para validação                                                                                                     |2 Horas     | 3      |                   
+| 4    | Baixa      | Apresentação na feria de soluções FATEC - SJC                                                                                                           |2 Horas     | 3      |
 
 
   
@@ -53,8 +52,8 @@ Assim, busca-se ampliar o conhecimento sobre esse recurso essencial para a econo
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 05/04/2026 | Realizado | [MVP](MVP/sp1.md)  |
+| 01                | 05/04/2026 | Realizado | [MVP](MVP/sp1.md) |
 | 02                | 13/04/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 04/05/2026 | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 11/05/2026 | a fazer  | [MVP](#)  |
+| Feira de Soluções | 11/05/2026 | a fazer  | [MVP](#)           |
 
