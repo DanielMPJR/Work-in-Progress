@@ -1,10 +1,9 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> Neste momento do API, estamos considerando buscar dados sobre o item selecionado (petróleo) para que consigamos seguir com a montagem de BI da forma mais completa possível, assim, trazendo dados como:
+- Quantidade de petróleo exportado em 2026;
+- Custo do petróleo exportado em 2026 até o momento.
 
 ---
 
