@@ -53,7 +53,7 @@ Assim, busca-se ampliar o conhecimento sobre esse recurso essencial para a econo
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 05/04/2026 | Realizado | [MVP](MVP/sp1.md) |
-| 02                | 13/04/2026 | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | 04/05/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| 02                | 06/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 03/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 11/05/2026 | a fazer  | [MVP](#)           |
 
