@@ -8,16 +8,11 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
-
+Este projeto tem como objetivo aprofundar a análise da exportação de petróleo, explorando seus aspectos econômicos e estratégicos. Através de informações detalhadas sobre o mercado global do petróleo, o trabalho também busca apresentar curiosidades que ressaltam a relevância desse recurso para a economia mundial. A proposta é expandir o entendimento sobre o papel fundamental do petróleo no cenário econômico internacional.
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Gestor de Exportação.
 
 ---
 
@@ -32,33 +27,25 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 02     | [Funcionalidade Z]                           | Em andamento|
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- Por onde o Brasil escoa o petróleo
+- Maior quantidade de petróleo exportada do Brasil
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- A métrica de Validação utilizada neste projeto será considerada em percentual e divisão de fatias (%) no BI.
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Após a implementação de dados e filtros realizados na planilha principal, consideraremos montar a apresentação com todos os dados necessários para seguirmos com o maior entendimento.
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Planilha Excel com filtros e Power BI.
