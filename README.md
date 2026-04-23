@@ -9,9 +9,7 @@
 
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+Este projeto visa analisar a exportação de petróleo, destacando seus aspectos econômicos e estratégicos. Serão apresentadas informações sobre o mercado global do petróleo, além de curiosidades que ajudam a entender sua importância para a economia mundial. O objetivo é ampliar o conhecimento sobre esse recurso essencial.
 
 
 # Equipe
