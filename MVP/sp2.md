@@ -39,7 +39,7 @@ O objetivo é aprofundar a análise da exportação de petróleo, Através de in
 ---
 
 ## 📈 Métricas de Validação
-- Para as Métricas de Validação do trabalho, será considerado como critério principal a apresentação dos resultados por meio de uma ferramenta de Business Intelligence (BI), utilizando dados reais extraídos sobre a exportação de petróleo.
+- Para as Métricas de Validação do trabalho, será considerado como critério principal a apresentação dos resultados por meio de uma ferramenta utilizada do pacote office (POWER BI), utilizando dados reais extraídos sobre a exportação de petróleo.
 
 ---
 
