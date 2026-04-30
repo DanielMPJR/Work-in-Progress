@@ -46,9 +46,13 @@ O objetivo é aprofundar a análise da exportação de petróleo, Através de in
 ## 🚀 Próximos Passos
 - Após a implementação de dados e filtros realizados na planilha principal, consideramos montar a apresentação com todos os dados necessários para seguirmos com o maior entendimento.
 - Nesta Sprint, estamos considerando entregar dados retirados do mês 01 até 03 de 2026, portanto, para próxima sprint, desejamos entregar as mesmas informações, porém, atualizadas até o momento.
+- 
 
 ---
 
 ## 📂 Anexos / Evidências
 - Planilha Excel com dados exportados do site da exportação;
 - BI utilizado para apresentação dos dados desta sprint.
+
+  <img width="1306" height="737" alt="image" src="https://github.com/user-attachments/assets/3d5080f4-e319-4554-949c-6dff9445a762" />
+
