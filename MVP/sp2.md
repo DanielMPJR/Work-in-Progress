@@ -1,14 +1,12 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 - Work in Process
 
 ## 🎯 Objetivo do MVP
-> Neste momento do API, estamos considerando buscar dados sobre o item selecionado (petróleo) para que consigamos seguir com a montagem de BI da forma mais completa possível, assim, trazendo dados como:
-- Quantidade de petróleo exportado em 2026;
-- Custo do petróleo exportado em 2026 até o momento.
+> Este projeto visa analisar a exportação de petróleo, destacando seus aspectos econômicos e estratégicos. Serão apresentadas informações sobre o mercado global do petróleo, além de curiosidades que ajudam a entender sua importância para a economia mundial. O objetivo é ampliar o conhecimento sobre esse recurso essencial.
 
 ---
 
 ## 📝 Descrição da Solução
-Este projeto tem como objetivo aprofundar a análise da exportação de petróleo, explorando seus aspectos econômicos e estratégicos. Através de informações detalhadas sobre o mercado global do petróleo, o trabalho também busca apresentar curiosidades que ressaltam a relevância desse recurso para a economia mundial. A proposta é expandir o entendimento sobre o papel fundamental do petróleo no cenário econômico internacional.
+O objetivo é aprofundar a análise da exportação de petróleo, Através de informações detalhadas sobre o mercado global do petróleo, utilizando dados exportados da planilha e assim trazendo informações como, de onde saiu a maior quantidade de petróleo, para onde foi e qual a quantidade exportada até o momento.
 ---
 
 ## 👥 Personas / Usuários-Alvo
@@ -19,33 +17,38 @@ Este projeto tem como objetivo aprofundar a análise da exportação de petróle
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Qual a quantidade de petróleo exportada entre o mês 1 e 3 de 2026?  | Alta       | 5 pontos   |
+| US2 | Qual país exportou mais petróleo do Brasil entre o mês 1 e 3 de 2026?         | Média      | 3 pontos   |
+| US3 | Qual país exportou menos petróleo do Brasil entre o mês 1 e 3 de 2026?          | Média      | 2 pontos   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 02     | [Funcionalidade Z]                           | Em andamento|
+| 02     | [Funcionalidade Z]                           | Concluído|
 
 ---
 
 ## 📊 Critérios de Aceitação
-- Por onde o Brasil escoa o petróleo
-- Maior quantidade de petróleo exportada do Brasil
+- Por onde o Brasil escoa o petróleo;
+- Maior quantidade de petróleo exportada do Brasil;
+- Menor quantidade de petróleo exportada do Brasil.
+- BI concluído com essas informações.
 
 ---
 
 ## 📈 Métricas de Validação
-- A métrica de Validação utilizada neste projeto será considerada em percentual e divisão de fatias (%) no BI.
+- Para as Métricas de Validação do trabalho, será considerado como critério principal a apresentação dos resultados por meio de uma ferramenta de Business Intelligence (BI), utilizando dados reais extraídos sobre a exportação de petróleo.
 
 ---
 
 ## 🚀 Próximos Passos
-- Após a implementação de dados e filtros realizados na planilha principal, consideraremos montar a apresentação com todos os dados necessários para seguirmos com o maior entendimento.
+- Após a implementação de dados e filtros realizados na planilha principal, consideramos montar a apresentação com todos os dados necessários para seguirmos com o maior entendimento.
+- Nesta Sprint, estamos considerando entregar dados retirados do mês 01 até 03 de 2026, portanto, para próxima sprint, desejamos entregar as mesmas informações, porém, atualizadas até o momento.
 
 ---
 
 ## 📂 Anexos / Evidências
-- Planilha Excel com filtros e Power BI.
+- Planilha Excel com dados exportados do site da exportação;
+- BI utilizado para apresentação dos dados desta sprint.
