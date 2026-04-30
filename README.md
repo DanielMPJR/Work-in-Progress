@@ -40,9 +40,9 @@ Assim, busca-se ampliar o conhecimento sobre esse recurso essencial para a econo
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Escolha de NCM - 27090010 - Oleos Brutos de petróleo.                                                                                                   |1 Hora      | 2      |
-| 2    | Alta       | Busca de informações planilhadas, tais como, valor bruto, quantidade exportada e estados citados e estruturação de dados para relatório.                                      |4 Horas     | 2      |
-| 3    | Alta       | Analise de dados realizada, considerando já ter apresentação montada do mês 1 ao 3 de 2026, entrega com dados atualizados em data próxima.                                                                                                     |2 Horas     | 3      |                   
-| 4    | Baixa      | Apresentação na feira de soluções FATEC - SJC                                                                                                           |2 Horas     | 3      |
+| 2    | Alta       | Busca de informações planilhadas, tais como, valor bruto, quantidade exportada e estados citados e estruturação de dados para relatório.                                      |6 Horas     | 2      |
+| 3    | Alta       | Analise de dados realizada, considerando já ter apresentação montada do mês 1 ao 3 de 2026, entrega com dados atualizados em data próxima.                                                                                                     |6 Horas     | 3      |                   
+| 4    | Baixa      | Apresentação na feira de soluções FATEC - SJC                                                                                                           |3 Horas     | 3      |
 
 
   
