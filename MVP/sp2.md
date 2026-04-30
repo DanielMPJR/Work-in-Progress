@@ -51,8 +51,8 @@ O objetivo é aprofundar a análise da exportação de petróleo, Através de in
 ---
 
 ## 📂 Anexos / Evidências
-- Planilha Excel com dados exportados do site da exportação;
 - BI utilizado para apresentação dos dados desta sprint.
-
+- JIRA com tarefas atualizadas e concluídas.
   <img width="1306" height="737" alt="image" src="https://github.com/user-attachments/assets/3d5080f4-e319-4554-949c-6dff9445a762" />
+<img width="1600" height="714" alt="image" src="https://github.com/user-attachments/assets/3e36d4a2-3153-43ab-8d74-92ba07b8e7a7" />
 
