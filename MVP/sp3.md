@@ -1,61 +1,52 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
-
+> Este projeto visa analisar a exportação de petróleo, destacando seus aspectos econômicos e estratégicos. Serão apresentadas informações sobre o mercado global do petróleo, além de curiosidades que ajudam a entender sua importância para a economia mundial. O objetivo é ampliar o conhecimento sobre esse recurso essencial.
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Vamos aprofundar a análise da exportação de petróleo, Através de informações detalhadas sobre o mercado global do petróleo, utilizando dados exportados da planilha e assim trazendo informações como, de onde saiu a maior quantidade de petróleo, para onde foi e qual a quantidade exportada de 2024 até o momento.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Gestor de exportação.
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Qual a maior quantidade de petróleo exportada entre os meses 1 e 3 de cada ano a partir de 2024? | Alta       | 5 pontos   |
+| US2 | Qual país exportou mais petróleo do Brasil durante os primeiros 3 meses de cada ano?        | Média      | 3 pontos   |
+| US3 | Qual país exportou menos petróleo do Brasil durante os primeiros 3 meses de cada ano?        | Média      | 3 pontos   |
+| US4 | Qual frete foi mais utilizado durante os primeiros 3 meses de cada ano?         | Média      | 3 pontos   |
+| US5 | Qual porto foi mais utilizado durante os primeiros 3 meses de cada ano?         | Média      | 3 pontos   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 03     | 2° Sprint | Concluído|
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- Por onde o Brasil escoou o petróleo;
+- Qual a maior quantidade de petróleo exportada do Brasil durante o primeiro trimestre de cada ano;
+- Menor quantidade de petróleo exportada do Brasil durante o primeiro trimestre de cada ano.
+- BI concluído com essas informações.
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Para as Métricas de Validação do trabalho, será considerado como critério principal a apresentação dos resultados por meio de uma ferramenta utilizada do pacote office (POWER BI), utilizando dados reais extraídos sobre a exportação de petróleo.
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Após a implementação de dados e filtros realizados na planilha principal, consideramos montar a apresentação final para apresentarmos a feira de soluções FATEC.
 
 ---
 
