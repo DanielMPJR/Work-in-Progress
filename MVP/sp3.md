@@ -47,21 +47,11 @@
 
 ## 🚀 Próximos Passos
 - Após a implementação de dados e filtros realizados na planilha principal, consideramos montar a apresentação final para apresentarmos a feira de soluções FATEC.
-
-- 📂 Anexos / Evidências
-  
-BI utilizado para apresentação dos dados desta sprint.
-JIRA com tarefas atualizadas e concluídas.
-
-<img width="1426" height="787" alt="bcb69382-a653-4770-af55-7ce66e457782" src="https://github.com/user-attachments/assets/ee599b4e-8f04-4abe-9531-7513d8833015" />
-<img width="1366" height="643" alt="4e3b9c9d-3fe8-46f7-9082-81446c80cce4" src="https://github.com/user-attachments/assets/327273b9-e233-4892-bed9-8b189452c2d5" />
-
-
-
-
----
-
+- 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+
+<img width="1426" height="787" alt="bcb69382-a653-4770-af55-7ce66e457782" src="https://github.com/user-attachments/assets/1d74a8b3-763b-4def-9e8a-9d4ad2155ecb" />
+
+<img width="1366" height="643" alt="4e3b9c9d-3fe8-46f7-9082-81446c80cce4" src="https://github.com/user-attachments/assets/0b79abf0-29be-4607-9b53-6dd3aa10bcfa" />
+
+
