@@ -49,6 +49,7 @@
 - Após a implementação de dados e filtros realizados na planilha principal, consideramos montar a apresentação final para apresentarmos a feira de soluções FATEC.
 
 - 📂 Anexos / Evidências
+  
 BI utilizado para apresentação dos dados desta sprint.
 JIRA com tarefas atualizadas e concluídas.
 
