@@ -17,11 +17,10 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Qual a maior quantidade de petróleo exportada entre os meses 1 e 3 de cada ano a partir de 2024? | Alta       | 5 pontos   |
-| US2 | Qual país exportou mais petróleo do Brasil durante os primeiros 3 meses de cada ano?        | Média      | 3 pontos   |
-| US3 | Qual país exportou menos petróleo do Brasil durante os primeiros 3 meses de cada ano?        | Média      | 3 pontos   |
-| US4 | Qual frete foi mais utilizado durante os primeiros 3 meses de cada ano?         | Média      | 3 pontos   |
-| US5 | Qual porto foi mais utilizado durante os primeiros 3 meses de cada ano?         | Média      | 3 pontos   |
+| US1 | Qual a maior quantidade de petróleo importada entre os meses 1 e 3 de cada ano? | Alta       | 5 pontos   |
+| US2 | Qual a menor quantidade de petróleo importada entre os meses 1 e 3 de cada ano? | Média   | 3 pontos   |
+| US3 | Qual frete foi mais utilizado durante os primeiros 3 meses de cada ano?         | Média      | 3 pontos   |
+| US4 | Qual porto foi mais utilizado durante os primeiros 3 meses de cada ano?         | Média      | 3 pontos   |
 
 ---
 
@@ -33,11 +32,8 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- Por onde o Brasil escoou o petróleo;
-- Qual a maior quantidade de petróleo exportada do Brasil durante o primeiro trimestre de cada ano;
-- Menor quantidade de petróleo exportada do Brasil durante o primeiro trimestre de cada ano.
-- BI concluído com essas informações.
-
+- Apresentação com dados corretos sobre a importação de petróleo, tais como:
+- portos utilizados, quantidade importada durante o primeiro trimestre de 2024, 2025 e 2026.
 ---
 
 ## 📈 Métricas de Validação
