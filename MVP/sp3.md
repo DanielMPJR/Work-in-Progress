@@ -28,7 +28,7 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 03     | 2° Sprint | Concluído|
+| 03     | 2° Sprint | Realizado|
 
 ---
 
