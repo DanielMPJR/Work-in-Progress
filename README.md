@@ -15,8 +15,8 @@ Este projeto visa analisar a exportação de petróleo, destacando seus aspectos
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner | Matheus           |    [![Linkedin Badge](https://www.linkedin.com/in/matheus-alves-37602a227/)
-| Scrum Master  | Lucas             |     [![Linkedin Badge](https://www.linkedin.com/in/lucas-p-32a096129/)
+| Scrum Master  | Matheus           |    [![Linkedin Badge](https://www.linkedin.com/in/matheus-alves-37602a227/)
+| Product Owner  | Lucas             |     [![Linkedin Badge](https://www.linkedin.com/in/lucas-p-32a096129/)
 | Team Member   | Rafael Ramalho           |[         [![Linkedin Badge](https://www.linkedin.com/in/daniel-martins-99349871/)](https://github.com/molinariramalho)
 |  Team Member  | Welington         |       [![Linkedin Badge](https://www.linkedin.com/in/wellington-silva-fernandes-6b1b50260/)
 
