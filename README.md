@@ -41,7 +41,7 @@ Assim, busca-se ampliar o conhecimento sobre esse recurso essencial para a econo
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Escolha de NCM - 27090010 - Oleos Brutos de petróleo.                                                                                                   |1 Hora      | 2      |
 | 2    | Alta       | Qual a quantidade de petróleo exportada entre o mês 1 e 3 de 2026, Qual país exportou mais petróleo do Brasil entre o mês 1 e 3 de 2026 e Qual país exportou menos petróleo do Brasil entre o mês 1 e 3 de 2026.                                      |6 Horas     | 2      |
-| 3    | Alta       | Analise de dados realizada, considerando já ter apresentação montada do mês 1 ao 3 de 202r até 2026.                            |6 Horas     | 3      |                   
+| 3    | Alta       | Analise de dados realizada, considerando já ter apresentação montada do mês 1 ao 3 de 2024 até 2026.                            |6 Horas     | 3      |                   
 | 4    | Baixa      | Apresentação na feira de soluções FATEC - SJC                                                                                                           |3 Horas     | 3      |
 
 
